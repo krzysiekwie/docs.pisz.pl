@@ -4,13 +4,15 @@ What is reStructuredText?
 It's primarily a format of choice for `docutils <https://docutils.sourceforge.io/rst.html>`_
 an open-source system for processing plain-text into a number of documentation-specific and other formats. It's popular in the Python community.
 
+EN docs for reST are great and comprehensive, so let's have this bit in PL instead without any official localization. 
+
 Czym jest reStructuredText?
-===========================
+---------------------------
 
 To główny format wykorzystywany przez `docutils <https://docutils.sourceforge.io/rst.html>`_: otwartoźródłowy system wykorzystywany w społeczności Pythona do tworzenia dokumentacji (i innych formatów) z plików tekstowych.
 
 Ściągawka:
-==========
+----------
 oparta na 
 https://docutils.sourceforge.io/docs/user/rst/cheatsheet.txt
 
