@@ -28,7 +28,7 @@ will raise an exception.
 
 For example:
 
->>> import lumache
+>>> import piszpl
 >>> piszpl.get_random_docs()
 ['api', 'microcopy', 'tutorial']
 
