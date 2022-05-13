@@ -1,7 +1,7 @@
 Welcome to docs.pisz.pl's documentation!
 ===================================
 
-**docs.pisz.pl** (/lu'make/) is a project on *documenting* code, *translating* documentation and *writing* coding tutorials in Polish and English.
+**docs.pisz.pl** (documentation writing in Poland) is a project on *documenting* code, *translating* documentation and *writing* coding tutorials in Polish and English.
 Its user/reader-facting side is a `website <https://docs.pisz.pl>` and all the code is hosted on `github <https://github.com/krzysiekwie/docs.pisz.pl>` 
 
 
