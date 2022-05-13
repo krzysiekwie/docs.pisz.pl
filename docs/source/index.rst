@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to docs.pisz.pl's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**docs.pisz.pl** (/lu'make/) is a project on *documenting* code, *translating* documentation and *writing* coding tutorials in Polish and English.
+Its user/reader-facting side is a `website <https://docs.pisz.pl>` and all the code is hosted on `github <https://github.com/krzysiekwie/docs.pisz.pl>` 
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -20,3 +19,5 @@ Contents
 
    usage
    api
+
+docs.pisz.pl has its documentation hosted on Read the Docs.
