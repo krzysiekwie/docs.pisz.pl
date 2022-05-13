@@ -19,5 +19,6 @@ Contents
 
    usage
    api
+   reStructuredText
 
 docs.pisz.pl has its documentation hosted on Read the Docs.
