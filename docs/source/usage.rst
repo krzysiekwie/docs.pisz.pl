@@ -6,29 +6,29 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use docs.pisz.pl read it, think and get in touch; if you want to install it try pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install piszpl
 
-Creating recipes
+Writing docs
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+To retrieve a list of random topics,
+you can use the ``piszpl.get_random_docs()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
+.. autofunction:: piszpl.get_random_docs
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
+The ``kind`` parameter should be either ``"ux"``, ``"translation"``,
+or ``"localisation"``. Otherwise, :py:func:`piszpl.get_random_docs`
 will raise an exception.
 
-.. autoexception:: lumache.InvalidKindError
+.. autoexception:: piszpl.InvalidKindError
 
 For example:
 
 >>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> piszpl.get_random_docs()
+['api', 'microcopy', 'tutorial']
 
