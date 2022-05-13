@@ -2,7 +2,7 @@ Welcome to docs.pisz.pl's documentation!
 ===================================
 
 **docs.pisz.pl** (documentation writing in Poland) is a project on *documenting* code, *translating* documentation and *writing* coding tutorials in Polish and English.
-Its user/reader-facting side is a `website <https://docs.pisz.pl>` and all the code is hosted on `github <https://github.com/krzysiekwie/docs.pisz.pl>` 
+Its user/reader-facting side is a `website <https://docs.pisz.pl>`_ and all the code is hosted on `github <https://github.com/krzysiekwie/docs.pisz.pl>`_ 
 
 
 Check out the :doc:`usage` section for further information, including
